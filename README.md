@@ -1,6 +1,6 @@
 #  Back-Hand-Pose
 
-This is a demon of the paper "Back-Hand-Pose: 3D Hand Pose Estimation for Wrist-wornDevices via Dorsum Deformation Analysis" which deal with estimating human hand pose from a wrist-worn camera. The deformation of the back of hand is analyzed and mapped to a special joint angle-based 3D hand representation, and the joint angle is then reconstructed to 3D Hand Pose by Unity and IK.
+This is a demonstration of the paper "Back-Hand-Pose: 3D Hand Pose Estimation for Wrist-wornDevices via Dorsum Deformation Analysis" which deal with estimating human hand pose from a wrist-worn camera. The deformation of the back of hand is analyzed and mapped to a special joint angle-based 3D hand representation, and the joint angle is then reconstructed to 3D Hand Pose by Unity and IK.
 
 
 ## Demo
