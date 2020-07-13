@@ -4,7 +4,7 @@ This is a demonstration of the paper "Back-Hand-Pose: 3D Hand Pose Estimation fo
 
 
 ## Demo
-To be updated
+![demo](https://github.com/erwinwu211/Back-Hand-Pose/blob/master/fig/teaser.gif?raw=true)
 
 ## Pre-trained Model
 To be updated
