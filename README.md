@@ -22,7 +22,7 @@ To be updated
 
 This is the official repository of the paper "Back-Hand-Pose: 3D Hand Pose Estimation for Wrist-wornDevices via Dorsum Deformation Analysis" (UIST 2020).
 
-If you refer to our paper or use our code, please also cite the paper:
+If you refer to our paper or use our code, please also cite this paper and the previous work:
 ```
 Waiting for publication
 ```
