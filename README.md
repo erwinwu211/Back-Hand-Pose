@@ -28,4 +28,4 @@ Waiting for publication
 ```
 
 ## License
-The code, software, and data in this repository is only available for non-commercial research use. Please see the license for further details.
+The code, software, and data in this repository is only available for non-commercial research use. Please see the [license](https://github.com/erwinwu211/Back-Hand-Pose/blob/master/LICENSE) for further details.
