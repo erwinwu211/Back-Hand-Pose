@@ -26,3 +26,6 @@ If you refer to our paper or use our code, please also cite the paper:
 ```
 Waiting for publication
 ```
+
+## License
+The code, software, and data in this repository is only available for non-commercial research use. Please see the license for further details.
