@@ -24,7 +24,22 @@ This is the official repository of the paper "Back-Hand-Pose: 3D Hand Pose Estim
 
 If you refer to our paper or use our code, please also cite this paper and the previous work:
 ```
-Waiting for publication
+@inproceedings{10.1145/3379337.3415897,
+author = {Wu, Erwin and Yuan, Ye and Yeo, Hui-Shyong and Quigley, Aaron and Koike, Hideki and Kitani, Kris M.},
+title = {Back-Hand-Pose: 3D Hand Pose Estimation for a Wrist-Worn Camera via Dorsum Deformation Network},
+year = {2020},
+isbn = {9781450375146},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3379337.3415897},
+doi = {10.1145/3379337.3415897},
+booktitle = {Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology},
+pages = {1147–1160},
+numpages = {14},
+keywords = {3d hand pose estimation, dorsal hand, wrist-worn devices},
+location = {Virtual Event, USA},
+series = {UIST '20}
+}
 ```
 
 ## License
