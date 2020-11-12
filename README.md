@@ -1,6 +1,6 @@
 #  Back-Hand-Pose
 
-## A Unity Visualizer together with the test dataset will be released soon.
+## A Unity Visualizer together with a test dataset will be released soon.
 This is the official repository of the paper "Back-Hand-Pose: 3D Hand Pose Estimation for Wrist-worn Camera via Dorsum Deformation Network" which deal with estimating human hand pose from a wrist-worn camera. The deformation of the back of hand is analyzed and mapped to a special joint angle-based 3D hand representation, and the joint angle is then reconstructed to 3D Hand Pose by Unity and IK.
 
 ![demo](https://github.com/erwinwu211/Back-Hand-Pose/blob/master/fig/teaser.gif?raw=true)
